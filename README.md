@@ -1,2 +1,2 @@
-# Hanman_EXE
+# Hangman_EXE
 Windows application for hangman game
